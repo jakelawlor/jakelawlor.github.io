@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jake Lawlor</title>
-    <link>http://jakelawlor.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2021 16:59:54 +0600</lastBuildDate><atom:link href="http://jakelawlor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 16:59:54 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>all</title>
-      <link>http://jakelawlor.github.io/portfolio/categories/all/</link>
+      <link>/portfolio/categories/all/</link>
       <pubDate>Wed, 20 Jan 2021 16:59:54 +0600</pubDate>
       
-      <guid>http://jakelawlor.github.io/portfolio/categories/all/</guid>
+      <guid>/portfolio/categories/all/</guid>
       <description></description>
     </item>
     
     <item>
       <title>just for fun</title>
-      <link>http://jakelawlor.github.io/portfolio/categories/just-for-fun/</link>
+      <link>/portfolio/categories/just-for-fun/</link>
       <pubDate>Wed, 20 Jan 2021 16:59:54 +0600</pubDate>
       
-      <guid>http://jakelawlor.github.io/portfolio/categories/just-for-fun/</guid>
+      <guid>/portfolio/categories/just-for-fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TidyTuesday</title>
-      <link>http://jakelawlor.github.io/portfolio/categories/tidytuesday/</link>
+      <link>/portfolio/categories/tidytuesday/</link>
       <pubDate>Sat, 12 Dec 2020 16:59:54 +0600</pubDate>
       
-      <guid>http://jakelawlor.github.io/portfolio/categories/tidytuesday/</guid>
+      <guid>/portfolio/categories/tidytuesday/</guid>
       <description></description>
     </item>
     
     <item>
       <title>freelance</title>
-      <link>http://jakelawlor.github.io/portfolio/categories/freelance/</link>
+      <link>/portfolio/categories/freelance/</link>
       <pubDate>Sun, 12 Jul 2020 16:59:54 +0600</pubDate>
       
-      <guid>http://jakelawlor.github.io/portfolio/categories/freelance/</guid>
+      <guid>/portfolio/categories/freelance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R package</title>
-      <link>http://jakelawlor.github.io/portfolio/categories/r-package/</link>
+      <link>/portfolio/categories/r-package/</link>
       <pubDate>Fri, 12 Jun 2020 16:57:54 +0600</pubDate>
       
-      <guid>http://jakelawlor.github.io/portfolio/categories/r-package/</guid>
+      <guid>/portfolio/categories/r-package/</guid>
       <description></description>
     </item>
     
