@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R package on Jake Lawlor</title>
-    <link>/portfolio/categories/r-package/</link>
+    <link>http://jakelawlor.github.io/portfolio/categories/r-package/</link>
     <description>Recent content in R package on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2020 16:57:54 +0600</lastBuildDate><atom:link href="/portfolio/categories/r-package/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jun 2020 16:57:54 +0600</lastBuildDate><atom:link href="http://jakelawlor.github.io/portfolio/categories/r-package/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PNWColors</title>
-      <link>/portfolio/pnwcolors/</link>
+      <link>http://jakelawlor.github.io/portfolio/pnwcolors/</link>
       <pubDate>Fri, 12 Jun 2020 16:57:54 +0600</pubDate>
       
-      <guid>/portfolio/pnwcolors/</guid>
+      <guid>http://jakelawlor.github.io/portfolio/pnwcolors/</guid>
       <description>PNWColors My interest in natural science is connected to my long appreciation for beauty in nature, but I find that this appreciation is often forgotten for us ecologists who conduct our research from mostly inside of doors. To remind myself of this connection and to honor my years in the most beautiful place in the world, I developed this R color palette package based off of the natural beauty of the Pacific Northwest.</description>
     </item>
     
