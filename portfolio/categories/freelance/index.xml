@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>freelance on Jake Lawlor</title>
-    <link>http://jakelawlor.github.io/portfolio/categories/freelance/</link>
+    <link>https://jakelawlor.github.io/portfolio/categories/freelance/</link>
     <description>Recent content in freelance on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2020 16:59:54 +0600</lastBuildDate><atom:link href="http://jakelawlor.github.io/portfolio/categories/freelance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2020 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/freelance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACLU Survey Responses</title>
-      <link>http://jakelawlor.github.io/portfolio/freelance_aclu/</link>
+      <link>https://jakelawlor.github.io/portfolio/freelance_aclu/</link>
       <pubDate>Sun, 12 Jul 2020 16:59:54 +0600</pubDate>
       
-      <guid>http://jakelawlor.github.io/portfolio/freelance_aclu/</guid>
+      <guid>https://jakelawlor.github.io/portfolio/freelance_aclu/</guid>
       <description>Community survey responses to the ACLU of Washington This is part of a freelance project I completed using text- and sentiment analysis on a collection of survey responses for the ACLU of Washington. jenn ghvkg
 Sunday Lab.
  this is the text inside the box, maybe I can use code here.
@@ -21,20 +21,20 @@ Sunday Lab.
     
     <item>
       <title>Crated with Love</title>
-      <link>http://jakelawlor.github.io/portfolio/freelance_cratedwithlove/</link>
+      <link>https://jakelawlor.github.io/portfolio/freelance_cratedwithlove/</link>
       <pubDate>Sun, 12 Apr 2020 16:59:54 +0600</pubDate>
       
-      <guid>http://jakelawlor.github.io/portfolio/freelance_cratedwithlove/</guid>
+      <guid>https://jakelawlor.github.io/portfolio/freelance_cratedwithlove/</guid>
       <description>Crated with Love Relationship Survey These are a subset of plots I created for Crated with Love food delivery service summarizing results from a survey of ~10,000 couples on relationship- and date-night-related topics. These visualizations and results were used for marketing the importance of data nights to build and maintain healthy relationships.
 All plots were created in ggplot2 with some utilization of extras like ggtext and gghighlight.</description>
     </item>
     
     <item>
       <title>Policy-Driven Markets</title>
-      <link>http://jakelawlor.github.io/portfolio/freelance_carbon/</link>
+      <link>https://jakelawlor.github.io/portfolio/freelance_carbon/</link>
       <pubDate>Thu, 12 Mar 2020 16:59:54 +0600</pubDate>
       
-      <guid>http://jakelawlor.github.io/portfolio/freelance_carbon/</guid>
+      <guid>https://jakelawlor.github.io/portfolio/freelance_carbon/</guid>
       <description>Policy-Driven Market Fluctuations This is a series of plots I made for a California carbon tax consultancy showing market prices of fossil fuel emissions from specific policy initiatives around the world. The specific events and acronyms denoted in these graphs are somewhat esoteric and were largely chosen by the client, but I focused on using clear annotations, color, and spacing to effectively communicate the client&amp;rsquo;s ideas. All plots were completed using ggplot2 and ggforce.</description>
     </item>
     
