@@ -43,10 +43,7 @@ First, I used the tidytext package to extract every instance in a Washington Tra
       <pubDate>Sun, 12 Jul 2020 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/freelance_aclu/</guid>
-      <description>Community survey responses to the ACLU of Washington This is part of a freelance project I completed using text- and sentiment analysis on a collection of survey responses for the ACLU of Washington. jenn ghvkg
-Sunday Lab.
- this is the text inside the box, maybe I can use code here.
- this is some text below.</description>
+      <description>Community survey responses to the ACLU of Washington This is part of a freelance project I completed using text- and sentiment analysis to summarize responses to a community survey for the ACLU of Washington. I used the tidytext package for text manipulation and sentiment analysis, and ggplot2, ggforce, ggraph, and ggwordcloud for visualizations.</description>
     </item>
     
     <item>
