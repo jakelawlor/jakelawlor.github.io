@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>American Wages - Economist Wannabe</title>
+      <link>https://jakelawlor.github.io/portfolio/wages/</link>
+      <pubDate>Tue, 23 Feb 2021 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/wages/</guid>
+      <description>One Decade of American Workers Wages This plot is one of my contributions to the #TidyTuesday R social project.
+Here, I show the changes in wages for American workers by racial and ethnic group, as well as the wage gap between male and female workers. In these plots, I wanted to see if I could replicate the style of one of my biggest data visualization inspirations, The Economist. I used ggplot2 for plots, and cowplot to combine plots with background annotations.</description>
+    </item>
+    
+    <item>
       <title>Genuary 2</title>
       <link>https://jakelawlor.github.io/portfolio/genuary23/</link>
       <pubDate>Wed, 20 Jan 2021 16:59:54 +0600</pubDate>
