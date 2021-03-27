@@ -6,7 +6,17 @@
     <description>Recent content in freelance on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2020 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/freelance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/freelance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canadian Fisheries Shiny App</title>
+      <link>https://jakelawlor.github.io/portfolio/dfo_shiny/</link>
+      <pubDate>Fri, 12 Mar 2021 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/dfo_shiny/</guid>
+      <description>Canadian Decapod Distribution Shiny App This interactive species distribution map was my contribution to the Canadian Department of Fisheries and Oceans (DFO) project, Estimating the interacting effects of groundfish predation and climate change on shellfish spatial distributions, funded by the Aquatic Climate Change Adaptation Services Program (ACCASP). The project involves projecting distributions of two Canadian shellfish fisheries based on scenarios of climate and predator density.
+I used the leaflet, raster, and sf packages to create distribution maps, and the shinydashboard and shinyWidgets packages to develop the user interface.</description>
+    </item>
+    
     <item>
       <title>ACLU Survey Responses</title>
       <link>https://jakelawlor.github.io/portfolio/freelance_aclu/</link>
