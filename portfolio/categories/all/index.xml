@@ -6,7 +6,18 @@
     <description>Recent content in all on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Mar 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/all/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kyoto Cherry Blossoms</title>
+      <link>https://jakelawlor.github.io/portfolio/30daychartchall/</link>
+      <pubDate>Tue, 20 Apr 2021 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/30daychartchall/</guid>
+      <description>Kyoto Cherry Blossom Blooms This plot is one of my contributions to the #30DayChartChallenge Twitter data visualization challenge.
+The prompt on this day was global change, so I plotted the timing of cherry blossom blooms in Kyoto City japan for over 1000 years. Here, I used the ggforce package to make individual points into flowers and a trend line into a tree trunk.
+Code available at link in banner.</description>
+    </item>
+    
     <item>
       <title>Canadian Fisheries Shiny App</title>
       <link>https://jakelawlor.github.io/portfolio/dfo_shiny/</link>

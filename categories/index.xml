@@ -6,13 +6,22 @@
     <description>Recent content in Categories on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Mar 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>all</title>
       <link>https://jakelawlor.github.io/portfolio/categories/all/</link>
-      <pubDate>Fri, 12 Mar 2021 16:59:54 +0600</pubDate>
+      <pubDate>Tue, 20 Apr 2021 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/categories/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>just for fun</title>
+      <link>https://jakelawlor.github.io/portfolio/categories/just-for-fun/</link>
+      <pubDate>Tue, 20 Apr 2021 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/categories/just-for-fun/</guid>
       <description></description>
     </item>
     
@@ -40,15 +49,6 @@
       <pubDate>Tue, 23 Feb 2021 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/categories/tidytuesday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>just for fun</title>
-      <link>https://jakelawlor.github.io/portfolio/categories/just-for-fun/</link>
-      <pubDate>Wed, 20 Jan 2021 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/categories/just-for-fun/</guid>
       <description></description>
     </item>
     
