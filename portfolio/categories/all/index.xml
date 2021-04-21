@@ -8,13 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Apr 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kyoto Cherry Blossoms</title>
+      <title>Kyoto Cherry Blossom Blooms</title>
       <link>https://jakelawlor.github.io/portfolio/30daychartchall/</link>
       <pubDate>Tue, 20 Apr 2021 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/30daychartchall/</guid>
       <description>Kyoto Cherry Blossom Blooms This plot is one of my contributions to the #30DayChartChallenge Twitter data visualization challenge.
-The prompt on this day was global change, so I plotted the timing of cherry blossom blooms in Kyoto City japan for over 1000 years. Here, I used the ggforce package to make individual points into flowers and a trend line into a tree trunk.
+The prompt on this day was global change, so I plotted the timing of cherry blossom blooms in Kyoto City, Japan for over 1000 years. Here, I used the ggforce package to turn individual points into flowers and a trend line into a tree branch.
 Code available at link in banner.</description>
     </item>
     
