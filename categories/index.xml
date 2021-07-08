@@ -6,13 +6,31 @@
     <description>Recent content in Categories on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jul 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>all</title>
       <link>https://jakelawlor.github.io/portfolio/categories/all/</link>
-      <pubDate>Tue, 20 Apr 2021 16:59:54 +0600</pubDate>
+      <pubDate>Thu, 01 Jul 2021 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/categories/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freelance</title>
+      <link>https://jakelawlor.github.io/portfolio/categories/freelance/</link>
+      <pubDate>Thu, 01 Jul 2021 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/categories/freelance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive</title>
+      <link>https://jakelawlor.github.io/portfolio/categories/interactive/</link>
+      <pubDate>Thu, 01 Jul 2021 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/categories/interactive/</guid>
       <description></description>
     </item>
     
@@ -22,24 +40,6 @@
       <pubDate>Tue, 20 Apr 2021 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/categories/just-for-fun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>freelance</title>
-      <link>https://jakelawlor.github.io/portfolio/categories/freelance/</link>
-      <pubDate>Fri, 12 Mar 2021 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/categories/freelance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interactive</title>
-      <link>https://jakelawlor.github.io/portfolio/categories/interactive/</link>
-      <pubDate>Fri, 12 Mar 2021 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/categories/interactive/</guid>
       <description></description>
     </item>
     
