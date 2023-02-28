@@ -6,7 +6,26 @@
     <description>Recent content on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jul 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2022 12:29:40 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Simple Rules to Teach Yourself R</title>
+      <link>https://jakelawlor.github.io/publications/a-new-year-a-new-posibility/</link>
+      <pubDate>Mon, 15 Aug 2022 12:29:40 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/publications/a-new-year-a-new-posibility/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sit expedita, iusto repellendus cumque, officia architecto consequatur illo fuga eum sed ut autem eos voluptas. Nemo, a, rem! Atque quisquam aperiam eaque tenetur autem, soluta itaque omnis. Minus nesciunt, sint, animi illum quo ab voluptate esse delectus unde maiores iure, quasi a suscipit ipsam aliquid voluptatem. Perspiciatis eveniet, pariatur illum aut cum dolor neque consequatur error aliquid facilis in quasi temporibus assumenda tempore, doloremque autem saepe enim nihil.</description>
+    </item>
+    
+    <item>
+      <title>Marine Protected Area Shiny App</title>
+      <link>https://jakelawlor.github.io/portfolio/dfo_shiny2/</link>
+      <pubDate>Sat, 12 Mar 2022 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/dfo_shiny2/</guid>
+      <description>Targeting Protected Areas to Meet Conservation Goals Here, I worked with a team from the Canadian Department of Fisheries and Oceans Marine Planning and Conservation Team to develop an interactive tool showing how implementation of proposed protected areas on Canada&amp;rsquo;s East Coast would contribute to over 150 quantitative conservation targets for the region.
+I used the protected area network design and conservation priotity spatial layers developed by DFO (see documentation here and here), along with the shiny, leaflet, and reactable R packages, and various javascript tricks to develop the application.</description>
+    </item>
+    
     <item>
       <title>Shiny Tutorial</title>
       <link>https://jakelawlor.github.io/portfolio/shiny_tutorial/</link>
@@ -206,38 +225,29 @@ All plots were created in ggplot2 with some utilization of extras like ggtext an
     </item>
     
     <item>
-      <title>A New Year a New Posibility</title>
-      <link>https://jakelawlor.github.io/blog/a-new-year-a-new-posibility/</link>
-      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/blog/a-new-year-a-new-posibility/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sit expedita, iusto repellendus cumque, officia architecto consequatur illo fuga eum sed ut autem eos voluptas. Nemo, a, rem! Atque quisquam aperiam eaque tenetur autem, soluta itaque omnis. Minus nesciunt, sint, animi illum quo ab voluptate esse delectus unde maiores iure, quasi a suscipit ipsam aliquid voluptatem. Perspiciatis eveniet, pariatur illum aut cum dolor neque consequatur error aliquid facilis in quasi temporibus assumenda tempore, doloremque autem saepe enim nihil.</description>
-    </item>
-    
-    <item>
       <title>Building an Online Audience</title>
-      <link>https://jakelawlor.github.io/blog/building-an-online-audience/</link>
+      <link>https://jakelawlor.github.io/publications/building-an-online-audience/</link>
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
-      <guid>https://jakelawlor.github.io/blog/building-an-online-audience/</guid>
+      <guid>https://jakelawlor.github.io/publications/building-an-online-audience/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sit expedita, iusto repellendus cumque, officia architecto consequatur illo fuga eum sed ut autem eos voluptas. Nemo, a, rem! Atque quisquam aperiam eaque tenetur autem, soluta itaque omnis. Minus nesciunt, sint, animi illum quo ab voluptate esse delectus unde maiores iure, quasi a suscipit ipsam aliquid voluptatem. Perspiciatis eveniet, pariatur illum aut cum dolor neque consequatur error aliquid facilis in quasi temporibus assumenda tempore, doloremque autem saepe enim nihil.</description>
     </item>
     
     <item>
       <title>Space Shouldn&#39;t Be the Final Frontier</title>
-      <link>https://jakelawlor.github.io/blog/space-shouldnt-be-the-final-frontier/</link>
+      <link>https://jakelawlor.github.io/publications/space-shouldnt-be-the-final-frontier/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>https://jakelawlor.github.io/blog/space-shouldnt-be-the-final-frontier/</guid>
+      <guid>https://jakelawlor.github.io/publications/space-shouldnt-be-the-final-frontier/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sit expedita, iusto repellendus cumque, officia architecto consequatur illo fuga eum sed ut autem eos voluptas. Nemo, a, rem! Atque quisquam aperiam eaque tenetur autem, soluta itaque omnis. Minus nesciunt, sint, animi illum quo ab voluptate esse delectus unde maiores iure, quasi a suscipit ipsam aliquid voluptatem. Perspiciatis eveniet, pariatur illum aut cum dolor neque consequatur error aliquid facilis in quasi temporibus assumenda tempore, doloremque autem saepe enim nihil.</description>
     </item>
     
     <item>
       <title>How To Setup Timer Hugo</title>
-      <link>https://jakelawlor.github.io/blog/installation/</link>
+      <link>https://jakelawlor.github.io/publications/installation/</link>
       <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
       
-      <guid>https://jakelawlor.github.io/blog/installation/</guid>
+      <guid>https://jakelawlor.github.io/publications/installation/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer. hugo install documentation
 STEP-2 : Create your project Hugo provides a new command to create a new website.
 hugo new site &amp;lt;new_project&amp;gt; STEP-3 : Install the theme Run this command

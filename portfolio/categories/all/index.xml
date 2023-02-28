@@ -6,7 +6,17 @@
     <description>Recent content in all on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jul 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/all/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2022 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marine Protected Area Shiny App</title>
+      <link>https://jakelawlor.github.io/portfolio/dfo_shiny2/</link>
+      <pubDate>Sat, 12 Mar 2022 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/dfo_shiny2/</guid>
+      <description>Targeting Protected Areas to Meet Conservation Goals Here, I worked with a team from the Canadian Department of Fisheries and Oceans Marine Planning and Conservation Team to develop an interactive tool showing how implementation of proposed protected areas on Canada&amp;rsquo;s East Coast would contribute to over 150 quantitative conservation targets for the region.
+I used the protected area network design and conservation priotity spatial layers developed by DFO (see documentation here and here), along with the shiny, leaflet, and reactable R packages, and various javascript tricks to develop the application.</description>
+    </item>
+    
     <item>
       <title>Shiny Tutorial</title>
       <link>https://jakelawlor.github.io/portfolio/shiny_tutorial/</link>
