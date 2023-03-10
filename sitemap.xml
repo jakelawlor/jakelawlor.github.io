@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jakelawlor.github.io/publications/</loc>
+    <lastmod>2023-03-09T12:32:37+06:00</lastmod>
+  </url><url>
+    <loc>https://jakelawlor.github.io/</loc>
+    <lastmod>2023-03-09T12:32:37+06:00</lastmod>
+  </url><url>
     <loc>https://jakelawlor.github.io/publications/a-new-year-a-new-posibility/</loc>
     <lastmod>2022-08-15T12:29:40+06:00</lastmod>
   </url><url>
     <loc>https://jakelawlor.github.io/tags/inspiration/</loc>
-    <lastmod>2022-08-15T12:29:40+06:00</lastmod>
-  </url><url>
-    <loc>https://jakelawlor.github.io/</loc>
     <lastmod>2022-08-15T12:29:40+06:00</lastmod>
   </url><url>
     <loc>https://jakelawlor.github.io/tags/motivation/</loc>
@@ -118,9 +121,6 @@
   </url><url>
     <loc>https://jakelawlor.github.io/portfolio/tt_christmassongs/</loc>
     <lastmod>2019-12-12T16:59:54+06:00</lastmod>
-  </url><url>
-    <loc>https://jakelawlor.github.io/publications/</loc>
-    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
   </url><url>
     <loc>https://jakelawlor.github.io/publications/building-an-online-audience/</loc>
     <lastmod>2018-07-15T12:27:38+06:00</lastmod>
