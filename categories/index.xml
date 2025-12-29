@@ -6,13 +6,31 @@
     <description>Recent content in Categories on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Mar 2022 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Dec 2025 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>all</title>
       <link>https://jakelawlor.github.io/portfolio/categories/all/</link>
-      <pubDate>Sat, 12 Mar 2022 16:59:54 +0600</pubDate>
+      <pubDate>Sat, 20 Dec 2025 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/categories/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R package</title>
+      <link>https://jakelawlor.github.io/portfolio/categories/r-package/</link>
+      <pubDate>Sat, 20 Dec 2025 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/categories/r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive</title>
+      <link>https://jakelawlor.github.io/portfolio/categories/interactive/</link>
+      <pubDate>Thu, 20 Mar 2025 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/categories/interactive/</guid>
       <description></description>
     </item>
     
@@ -22,15 +40,6 @@
       <pubDate>Sat, 12 Mar 2022 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/categories/freelance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interactive</title>
-      <link>https://jakelawlor.github.io/portfolio/categories/interactive/</link>
-      <pubDate>Sat, 12 Mar 2022 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/categories/interactive/</guid>
       <description></description>
     </item>
     
@@ -49,15 +58,6 @@
       <pubDate>Tue, 23 Feb 2021 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/categories/tidytuesday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R package</title>
-      <link>https://jakelawlor.github.io/portfolio/categories/r-package/</link>
-      <pubDate>Fri, 12 Jun 2020 16:57:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/categories/r-package/</guid>
       <description></description>
     </item>
     

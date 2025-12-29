@@ -6,7 +6,16 @@
     <description>Recent content in interactive on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Mar 2022 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/interactive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/interactive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Climate Actions in Canada&#39;s Oceans</title>
+      <link>https://jakelawlor.github.io/portfolio/frq_climate_report/</link>
+      <pubDate>Thu, 20 Mar 2025 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/frq_climate_report/</guid>
+      <description>Climate Policy Recommendations for Quebec&amp;rsquo;s Comité Consultatif sur les Changements Climatiques In 2024, I received a grant from the Fonds de recherche du Québec to conduct science to guide policy actions for adapting to climate change. My project was an assessment of projected climate change impacts to Canada&amp;rsquo;s marine resources and marine protected areas, from which I formed four generalized policy recommendations for addressing climate change in Canada&amp;rsquo;s oceans, and developed specific recommendations for every marine protected area and every harvested marine species in Canada.</description>
+    </item>
+    
     <item>
       <title>Marine Protected Area Shiny App</title>
       <link>https://jakelawlor.github.io/portfolio/dfo_shiny2/</link>

@@ -8,6 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Apr 2021 12:58:14 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>BioDivPower</title>
+      <link>https://jakelawlor.github.io/portfolio/biodivpower/</link>
+      <pubDate>Sat, 20 Dec 2025 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/biodivpower/</guid>
+      <description>BioDivPoweR: an R package for assessing power of biodiversity monitoring sampling schemes. Accurate monitoring of biodiversity is necessary for understanding impacts of global change on ecosystems, but sampling designs across hetrogeneous regions can limit statistical power to reliably detect change. BioDivPoweR is an R package for conducting simulation-based power analyses on biodiversity monitoring sampling schemes to provide bespoke sampling assessments and recommendations on user-provided biodiversity data.
+This package integrates the simulation-based power analysis workflow developed by Tekwa et al.</description>
+    </item>
+    
+    <item>
+      <title>Climate Actions in Canada&#39;s Oceans</title>
+      <link>https://jakelawlor.github.io/portfolio/frq_climate_report/</link>
+      <pubDate>Thu, 20 Mar 2025 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/frq_climate_report/</guid>
+      <description>Climate Policy Recommendations for Quebec&amp;rsquo;s Comité Consultatif sur les Changements Climatiques In 2024, I received a grant from the Fonds de recherche du Québec to conduct science to guide policy actions for adapting to climate change. My project was an assessment of projected climate change impacts to Canada&amp;rsquo;s marine resources and marine protected areas, from which I formed four generalized policy recommendations for addressing climate change in Canada&amp;rsquo;s oceans, and developed specific recommendations for every marine protected area and every harvested marine species in Canada.</description>
+    </item>
+    
+    <item>
       <title>Marine Protected Area Shiny App</title>
       <link>https://jakelawlor.github.io/portfolio/dfo_shiny2/</link>
       <pubDate>Sat, 12 Mar 2022 16:59:54 +0600</pubDate>

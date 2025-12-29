@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jakelawlor.github.io/publications/</loc>
-    <lastmod>2023-03-09T12:32:37+06:00</lastmod>
+    <loc>https://jakelawlor.github.io/portfolio/categories/all/</loc>
+    <lastmod>2025-12-20T16:59:54+06:00</lastmod>
+  </url><url>
+    <loc>https://jakelawlor.github.io/portfolio/biodivpower/</loc>
+    <lastmod>2025-12-20T16:59:54+06:00</lastmod>
+  </url><url>
+    <loc>https://jakelawlor.github.io/categories/</loc>
+    <lastmod>2025-12-20T16:59:54+06:00</lastmod>
   </url><url>
     <loc>https://jakelawlor.github.io/</loc>
+    <lastmod>2025-12-20T16:59:54+06:00</lastmod>
+  </url><url>
+    <loc>https://jakelawlor.github.io/portfolio/categories/r-package/</loc>
+    <lastmod>2025-12-20T16:59:54+06:00</lastmod>
+  </url><url>
+    <loc>https://jakelawlor.github.io/portfolio/frq_climate_report/</loc>
+    <lastmod>2025-03-20T16:59:54+06:00</lastmod>
+  </url><url>
+    <loc>https://jakelawlor.github.io/portfolio/categories/interactive/</loc>
+    <lastmod>2025-03-20T16:59:54+06:00</lastmod>
+  </url><url>
+    <loc>https://jakelawlor.github.io/publications/</loc>
     <lastmod>2023-03-09T12:32:37+06:00</lastmod>
   </url><url>
     <loc>https://jakelawlor.github.io/publications/a-new-year-a-new-posibility/</loc>
@@ -20,16 +38,7 @@
     <loc>https://jakelawlor.github.io/tags/</loc>
     <lastmod>2022-08-15T12:29:40+06:00</lastmod>
   </url><url>
-    <loc>https://jakelawlor.github.io/portfolio/categories/all/</loc>
-    <lastmod>2022-03-12T16:59:54+06:00</lastmod>
-  </url><url>
-    <loc>https://jakelawlor.github.io/categories/</loc>
-    <lastmod>2022-03-12T16:59:54+06:00</lastmod>
-  </url><url>
     <loc>https://jakelawlor.github.io/portfolio/categories/freelance/</loc>
-    <lastmod>2022-03-12T16:59:54+06:00</lastmod>
-  </url><url>
-    <loc>https://jakelawlor.github.io/portfolio/categories/interactive/</loc>
     <lastmod>2022-03-12T16:59:54+06:00</lastmod>
   </url><url>
     <loc>https://jakelawlor.github.io/portfolio/dfo_shiny2/</loc>
@@ -81,9 +90,6 @@
     <lastmod>2020-07-12T16:59:54+06:00</lastmod>
   </url><url>
     <loc>https://jakelawlor.github.io/portfolio/pnwcolors/</loc>
-    <lastmod>2020-06-12T16:57:54+06:00</lastmod>
-  </url><url>
-    <loc>https://jakelawlor.github.io/portfolio/categories/r-package/</loc>
     <lastmod>2020-06-12T16:57:54+06:00</lastmod>
   </url><url>
     <loc>https://jakelawlor.github.io/portfolio/tt_passwords/</loc>
