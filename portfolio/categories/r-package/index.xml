@@ -8,13 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Dec 2025 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/r-package/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BioDivPower</title>
+      <title>BioDivPoweR</title>
       <link>https://jakelawlor.github.io/portfolio/biodivpower/</link>
       <pubDate>Sat, 20 Dec 2025 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/biodivpower/</guid>
       <description>BioDivPoweR: an R package for assessing power of biodiversity monitoring sampling schemes. Accurate monitoring of biodiversity is necessary for understanding impacts of global change on ecosystems, but sampling designs across hetrogeneous regions can limit statistical power to reliably detect change. BioDivPoweR is an R package for conducting simulation-based power analyses on biodiversity monitoring sampling schemes to provide bespoke sampling assessments and recommendations on user-provided biodiversity data.
 This package integrates the simulation-based power analysis workflow developed by Tekwa et al.</description>
+    </item>
+    
+    <item>
+      <title>BioShiftR</title>
+      <link>https://jakelawlor.github.io/portfolio/bioshiftr/</link>
+      <pubDate>Thu, 20 Nov 2025 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/bioshiftr/</guid>
+      <description>BioShiftR: An R package to access, manipulate, and organize the BioShifts database. BioShifts is a global database of over 31,000 changes in species’ range positions documented in scientific literature, spanning global geographies and taxonomic groups. The database contains documentations of range changes as listed in source publications, as well as standardized calculated rates of change along latitudinal and elevational gradients, and various supplemental data for hypothesis-testing.
+BioShifts is a rich resource for studying the effects of climate change on the biogeography of life on Earth, but accessing and manipulating the large and complex database can be daunting.</description>
     </item>
     
     <item>
