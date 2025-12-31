@@ -6,7 +6,17 @@
     <description>Recent content in just for fun on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/just-for-fun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jun 2021 16:57:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/just-for-fun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TidyTuesday Contributions</title>
+      <link>https://jakelawlor.github.io/portfolio/tidytuesday_contributions/</link>
+      <pubDate>Sat, 12 Jun 2021 16:57:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/tidytuesday_contributions/</guid>
+      <description>#TidyTuesday contributions ~2020-2021 The #TidyTuesday R community social project is a weekly challenge to create data visualizations from pre-processed data and share products and code with community members (often with the hashtag #TidyTuesday). I credit this project and it&amp;rsquo;s participants for much of my early development as an R coder.
+Between 2020 and 2021, I participated regularly in the community project; In doing so, I learned several new technmiques (text processing, data scraping from APIs, animating plots, creating custom geoms, to name a few), and developed better understanding for the principles of data vis.</description>
+    </item>
+    
     <item>
       <title>Kyoto Cherry Blossom Blooms</title>
       <link>https://jakelawlor.github.io/portfolio/30daychartchall/</link>
@@ -15,27 +25,18 @@
       <guid>https://jakelawlor.github.io/portfolio/30daychartchall/</guid>
       <description>Kyoto Cherry Blossom Blooms This plot is one of my contributions to the #30DayChartChallenge Twitter data visualization challenge.
 The prompt on this day was global change, so I plotted the timing of cherry blossom blooms in Kyoto City, Japan for over 1000 years. Here, I used the ggforce package to turn individual points into flowers and a trend line into a tree branch.
-Code available at link in banner.</description>
+Code available at link in sidebar.</description>
     </item>
     
     <item>
-      <title>Generative Art January 2</title>
-      <link>https://jakelawlor.github.io/portfolio/genuary23/</link>
-      <pubDate>Wed, 20 Jan 2021 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/genuary23/</guid>
-      <description>Generative Art January These visualizations represent my second attempt at generative art, inspired by the #Genuary2021 community on twitter. The prompt on this day was: Do anything with these 5 colors. Here, I made two different styles of visualized random data, with some parameters.
-First, a modern-art-inspired piece using some geom_ribbons with random slopes behind two groups of randomly generated data points fitted with geom_bspline_closed functions creating curved objects. All colors are randomly chosen out of 5.</description>
-    </item>
-    
-    <item>
-      <title>Generative Art January 1</title>
-      <link>https://jakelawlor.github.io/portfolio/genuary19/</link>
+      <title>Generative Art</title>
+      <link>https://jakelawlor.github.io/portfolio/generative_art/</link>
       <pubDate>Tue, 12 Jan 2021 16:59:54 +0600</pubDate>
       
-      <guid>https://jakelawlor.github.io/portfolio/genuary19/</guid>
-      <description>Generative Art January - Increasing Randomness This plot was my first ever attempt at generative art, inspired by the #Genuary2021 community on twitter. The prompt on this day was: Increase the randomness along the Y-axis.
-Basically, this code uses point coordinates spread evenly on a canvas, then expanded into 4 corners that will be the anchor points for geom_bspline_closed functions, which create the &amp;ldquo;circles&amp;rdquo; around each group of points. All groups of anchor points have some degree of randomness incorporated, but this randomness grows as a function of increased position on the Y axis.</description>
+      <guid>https://jakelawlor.github.io/portfolio/generative_art/</guid>
+      <description>Generative Art January On the seldom chance that I come across it and have free time, I&amp;rsquo;ve been inspired by generative art that uses functions, code, and principles of data visualization to create beautiful things. I also find it a great way to practice fundamentals of coding.
+Here are my very few contributions to &amp;ldquo;Genuary&amp;rdquo;, and code to replicate them.
+Prompt: Increase the randomness across the Y-axis (pictured above) Here, I used groups of four points, each arranged around central coordinates across a y-axis, and added a nudge in a random direction to each of the four points, with the nudge increasing with the central y-coordinate.</description>
     </item>
     
     <item>

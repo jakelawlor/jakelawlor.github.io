@@ -17,13 +17,23 @@
     </item>
     
     <item>
+      <title>Project Optimize Data Explorer</title>
+      <link>https://jakelawlor.github.io/portfolio/project_optimize/</link>
+      <pubDate>Wed, 12 Mar 2025 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/project_optimize/</guid>
+      <description>Optimizing the use of eDNA for Marine Protected Area surveying in Canada Canada is investing in a large Marine Protected Area (MPA) network, spanning approximately 805,000 km, to preserve marine biodiversity and promote healthy, functional, and resilient marine ecosystems. However, current biodiversity sampling methods are inadequate to monitor biodiversity within a network of this size.
+Project Optimize worked to evaluate and optimize marine monitoring survey designs in order to estimate the benefits of biodiversity certainty against the costs, resulting in key quantitative insights into monitoring biodiversity with eDNA.</description>
+    </item>
+    
+    <item>
       <title>Marine Protected Area Shiny App</title>
       <link>https://jakelawlor.github.io/portfolio/dfo_shiny2/</link>
       <pubDate>Sat, 12 Mar 2022 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/dfo_shiny2/</guid>
       <description>Targeting Protected Areas to Meet Conservation Goals Here, I worked with a team from the Canadian Department of Fisheries and Oceans Marine Planning and Conservation Team to develop an interactive tool showing how implementation of proposed protected areas on Canada&amp;rsquo;s East Coast would contribute to over 150 quantitative conservation targets for the region.
-I used the protected area network design and conservation priotity spatial layers developed by DFO (see documentation here and here), along with the shiny, leaflet, and reactable R packages, and various javascript tricks to develop the application.</description>
+I used the protected area network design and conservation priority spatial layers developed by DFO (see documentation here and here), along with the shiny, leaflet, and reactable R packages, and various javascript tricks to develop the application.</description>
     </item>
     
     <item>

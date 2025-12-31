@@ -37,13 +37,23 @@ BioShifts is a rich resource for studying the effects of climate change on the b
     </item>
     
     <item>
+      <title>Project Optimize Data Explorer</title>
+      <link>https://jakelawlor.github.io/portfolio/project_optimize/</link>
+      <pubDate>Wed, 12 Mar 2025 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/project_optimize/</guid>
+      <description>Optimizing the use of eDNA for Marine Protected Area surveying in Canada Canada is investing in a large Marine Protected Area (MPA) network, spanning approximately 805,000 km, to preserve marine biodiversity and promote healthy, functional, and resilient marine ecosystems. However, current biodiversity sampling methods are inadequate to monitor biodiversity within a network of this size.
+Project Optimize worked to evaluate and optimize marine monitoring survey designs in order to estimate the benefits of biodiversity certainty against the costs, resulting in key quantitative insights into monitoring biodiversity with eDNA.</description>
+    </item>
+    
+    <item>
       <title>Marine Protected Area Shiny App</title>
       <link>https://jakelawlor.github.io/portfolio/dfo_shiny2/</link>
       <pubDate>Sat, 12 Mar 2022 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/dfo_shiny2/</guid>
       <description>Targeting Protected Areas to Meet Conservation Goals Here, I worked with a team from the Canadian Department of Fisheries and Oceans Marine Planning and Conservation Team to develop an interactive tool showing how implementation of proposed protected areas on Canada&amp;rsquo;s East Coast would contribute to over 150 quantitative conservation targets for the region.
-I used the protected area network design and conservation priotity spatial layers developed by DFO (see documentation here and here), along with the shiny, leaflet, and reactable R packages, and various javascript tricks to develop the application.</description>
+I used the protected area network design and conservation priority spatial layers developed by DFO (see documentation here and here), along with the shiny, leaflet, and reactable R packages, and various javascript tricks to develop the application.</description>
     </item>
     
     <item>
@@ -57,6 +67,16 @@ Explore the App Here, or view materials from the entire Shiny training Here.</de
     </item>
     
     <item>
+      <title>TidyTuesday Contributions</title>
+      <link>https://jakelawlor.github.io/portfolio/tidytuesday_contributions/</link>
+      <pubDate>Sat, 12 Jun 2021 16:57:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/tidytuesday_contributions/</guid>
+      <description>#TidyTuesday contributions ~2020-2021 The #TidyTuesday R community social project is a weekly challenge to create data visualizations from pre-processed data and share products and code with community members (often with the hashtag #TidyTuesday). I credit this project and it&amp;rsquo;s participants for much of my early development as an R coder.
+Between 2020 and 2021, I participated regularly in the community project; In doing so, I learned several new technmiques (text processing, data scraping from APIs, animating plots, creating custom geoms, to name a few), and developed better understanding for the principles of data vis.</description>
+    </item>
+    
+    <item>
       <title>Kyoto Cherry Blossom Blooms</title>
       <link>https://jakelawlor.github.io/portfolio/30daychartchall/</link>
       <pubDate>Tue, 20 Apr 2021 16:59:54 +0600</pubDate>
@@ -64,7 +84,7 @@ Explore the App Here, or view materials from the entire Shiny training Here.</de
       <guid>https://jakelawlor.github.io/portfolio/30daychartchall/</guid>
       <description>Kyoto Cherry Blossom Blooms This plot is one of my contributions to the #30DayChartChallenge Twitter data visualization challenge.
 The prompt on this day was global change, so I plotted the timing of cherry blossom blooms in Kyoto City, Japan for over 1000 years. Here, I used the ggforce package to turn individual points into flowers and a trend line into a tree branch.
-Code available at link in banner.</description>
+Code available at link in sidebar.</description>
     </item>
     
     <item>
@@ -78,52 +98,24 @@ I used the leaflet, raster, and sf packages to create distribution maps, and the
     </item>
     
     <item>
-      <title>American Wages</title>
-      <link>https://jakelawlor.github.io/portfolio/wages/</link>
-      <pubDate>Tue, 23 Feb 2021 16:59:54 +0600</pubDate>
+      <title>Freelance Data Vis</title>
+      <link>https://jakelawlor.github.io/portfolio/freelance_data_vis/</link>
+      <pubDate>Fri, 12 Mar 2021 16:59:54 +0600</pubDate>
       
-      <guid>https://jakelawlor.github.io/portfolio/wages/</guid>
-      <description>One Decade of American Workers Wages This plot is one of my contributions to the #TidyTuesday R social project.
-Here, I show the changes in wages for American workers by racial and ethnic group, as well as the wage gap between male and female workers. In these plots, I wanted to see if I could replicate the style of one of my biggest data visualization inspirations, The Economist. I used ggplot2 for plots, and cowplot to combine plots with background annotations.</description>
+      <guid>https://jakelawlor.github.io/portfolio/freelance_data_vis/</guid>
+      <description>Freelance Data Vis During the pandemic, I completed a number of data visualization contract projects to apply my skills in various fields and practice project management and client relations. Below are a few examples of how I have applied my skills outside of my normal field of ecology.
+California Carbon Tax Markets I made this series of plots for a California carbon tax consultancy to show changes in market prices of fossil fuel emissions in response to specific policy initiatives around the world.</description>
     </item>
     
     <item>
-      <title>Generative Art January 2</title>
-      <link>https://jakelawlor.github.io/portfolio/genuary23/</link>
-      <pubDate>Wed, 20 Jan 2021 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/genuary23/</guid>
-      <description>Generative Art January These visualizations represent my second attempt at generative art, inspired by the #Genuary2021 community on twitter. The prompt on this day was: Do anything with these 5 colors. Here, I made two different styles of visualized random data, with some parameters.
-First, a modern-art-inspired piece using some geom_ribbons with random slopes behind two groups of randomly generated data points fitted with geom_bspline_closed functions creating curved objects. All colors are randomly chosen out of 5.</description>
-    </item>
-    
-    <item>
-      <title>Generative Art January 1</title>
-      <link>https://jakelawlor.github.io/portfolio/genuary19/</link>
+      <title>Generative Art</title>
+      <link>https://jakelawlor.github.io/portfolio/generative_art/</link>
       <pubDate>Tue, 12 Jan 2021 16:59:54 +0600</pubDate>
       
-      <guid>https://jakelawlor.github.io/portfolio/genuary19/</guid>
-      <description>Generative Art January - Increasing Randomness This plot was my first ever attempt at generative art, inspired by the #Genuary2021 community on twitter. The prompt on this day was: Increase the randomness along the Y-axis.
-Basically, this code uses point coordinates spread evenly on a canvas, then expanded into 4 corners that will be the anchor points for geom_bspline_closed functions, which create the &amp;ldquo;circles&amp;rdquo; around each group of points. All groups of anchor points have some degree of randomness incorporated, but this randomness grows as a function of increased position on the Y axis.</description>
-    </item>
-    
-    <item>
-      <title>Washington Hikes</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_wa-hikes/</link>
-      <pubDate>Sat, 12 Dec 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_wa-hikes/</guid>
-      <description>Ratings of Washington Hikes This plot is one of my contributions to the #TidyTuesday R social project. This plot shows the average rating scores of hikes in Washington State from reviews including the 10 most commonly used descriptors of trail views.
-First, I used the tidytext package to extract every instance in a Washington Trails online review in which the word &amp;ldquo;view&amp;rdquo; or &amp;ldquo;views&amp;rdquo; were mentioned, then categorized the most common adjective describing these views.</description>
-    </item>
-    
-    <item>
-      <title>ACLU Survey Responses</title>
-      <link>https://jakelawlor.github.io/portfolio/freelance_aclu/</link>
-      <pubDate>Sun, 12 Jul 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/freelance_aclu/</guid>
-      <description>Community survey responses to the ACLU of Washington This is part of a freelance project I completed using text- and sentiment analysis to summarize responses to a community survey for the ACLU of Washington. I used the tidytext package for text manipulation and sentiment analysis, and ggplot2, ggforce, ggraph, and ggwordcloud for visualizations.</description>
+      <guid>https://jakelawlor.github.io/portfolio/generative_art/</guid>
+      <description>Generative Art January On the seldom chance that I come across it and have free time, I&amp;rsquo;ve been inspired by generative art that uses functions, code, and principles of data visualization to create beautiful things. I also find it a great way to practice fundamentals of coding.
+Here are my very few contributions to &amp;ldquo;Genuary&amp;rdquo;, and code to replicate them.
+Prompt: Increase the randomness across the Y-axis (pictured above) Here, I used groups of four points, each arranged around central coordinates across a y-axis, and added a nudge in a random direction to each of the four points, with the nudge increasing with the central y-coordinate.</description>
     </item>
     
     <item>
@@ -136,112 +128,12 @@ First, I used the tidytext package to extract every instance in a Washington Tra
     </item>
     
     <item>
-      <title>Better Passwords</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_passwords/</link>
-      <pubDate>Tue, 12 May 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_passwords/</guid>
-      <description>Password security strength This plot is one of my contributions to the #TidyTuesday R social project. Here, I show the logistic return of strength of password as a function of character length. Code available at GitHun link in banner.</description>
-    </item>
-    
-    <item>
-      <title>Ring of Fire Volcanoes</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_volcano/</link>
-      <pubDate>Tue, 12 May 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_volcano/</guid>
-      <description>Ring of Fire Volcanoes This plot is one of my contributions to the #TidyTuesday R social project. This plot uses rnaturalearth to map the locations of every volcano in the Pacific Ring of Fire, then uses ggimage to plot frequency of each type of volcanoes with custom png graphics that I developed in Inkscape Vector Graphics software. Code available in GitHub link in banner.</description>
-    </item>
-    
-    <item>
       <title>Bellingham Map Poster</title>
       <link>https://jakelawlor.github.io/portfolio/bellingham_map/</link>
       <pubDate>Sun, 12 Apr 2020 16:59:54 +0600</pubDate>
       
       <guid>https://jakelawlor.github.io/portfolio/bellingham_map/</guid>
       <description>Mapping Bellingham This is a just-for-fun project I completed out of nostalgia for my years in Bellingham and to make some DIY wall art for my new home in Montreal. I used publicly-available spatial data from the City of Bellingham and roughly followed this tutorial to design the layout.</description>
-    </item>
-    
-    <item>
-      <title>Crated with Love</title>
-      <link>https://jakelawlor.github.io/portfolio/freelance_cratedwithlove/</link>
-      <pubDate>Sun, 12 Apr 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/freelance_cratedwithlove/</guid>
-      <description>Crated with Love Relationship Survey These are a subset of plots I created for Crated with Love food delivery service summarizing results from a survey of ~10,000 couples on relationship- and date-night-related topics. These visualizations and results were used for marketing the importance of data nights to build and maintain healthy relationships.
-All plots were created in ggplot2 with some utilization of extras like ggtext and gghighlight.</description>
-    </item>
-    
-    <item>
-      <title>Tour de France</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_tourdefrance/</link>
-      <pubDate>Sun, 12 Apr 2020 16:56:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_tourdefrance/</guid>
-      <description>Tour de France winners This plot is one of my contributions to the #TidyTuesday R social project. Here, I show a dashboard of statistics from ~120 years of Tour de France races. In these plots, I practiced reordering plot factors with the forcats package, and adding png icons to R plots using png and ggimage. Code available at link in banner.</description>
-    </item>
-    
-    <item>
-      <title>Higher Ed Diversity</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_universities/</link>
-      <pubDate>Thu, 12 Mar 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_universities/</guid>
-      <description>Diversity of US universities This plot is one of my contributions to the #TidyTuesday R social project. Here, I show the racial makeup of the student body population in the 50 highest and 50 lowest total-price colleges and universities. Code available on GitHub link in banner.</description>
-    </item>
-    
-    <item>
-      <title>Policy-Driven Markets</title>
-      <link>https://jakelawlor.github.io/portfolio/freelance_carbon/</link>
-      <pubDate>Thu, 12 Mar 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/freelance_carbon/</guid>
-      <description>Policy-Driven Market Fluctuations This is a series of plots I made for a California carbon tax consultancy showing market prices of fossil fuel emissions from specific policy initiatives around the world. The specific events and acronyms denoted in these graphs are somewhat esoteric and were largely chosen by the client, but I focused on using clear annotations, color, and spacing to effectively communicate the client&amp;rsquo;s ideas. All plots were completed using ggplot2 and ggforce.</description>
-    </item>
-    
-    <item>
-      <title>That&#39;s what she said</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_office/</link>
-      <pubDate>Thu, 12 Mar 2020 16:53:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_office/</guid>
-      <description>TWSS jokes in The Office This plot is one of my contributions to the #TidyTuesday R social project. Here, I used text mining from the schrute package in R to make a dashboard of occurrences of That&amp;rsquo;s what she said jokes in the US TV show, The Office. Code available on GitHub.</description>
-    </item>
-    
-    <item>
-      <title>Food Emissions</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_co2_food/</link>
-      <pubDate>Wed, 12 Feb 2020 16:58:55 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_co2_food/</guid>
-      <description>CO2 Output by Diet This is a visualization I completed as part of the #tidytuesday R social project. This plot uses a polar coordinate system to display carbon emissions from elements of the diets of nearly 180 countries around the world. Code on GitHub link in the banner above.</description>
-    </item>
-    
-    <item>
-      <title>Playlist Traits</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_spotify/</link>
-      <pubDate>Wed, 12 Feb 2020 16:54:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_spotify/</guid>
-      <description>Spotify Playlist Traits This plot is one of my contributions to the #TidyTuesday R social project. Here, I used the spotifyr package to mine data from my own custom Spotify playlists. I then used a polar web plot to visualize characteristics of sonic traits of songs in each playlist. Code available at link in banner.</description>
-    </item>
-    
-    <item>
-      <title>US Dog Shelters</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_dogs/</link>
-      <pubDate>Sun, 12 Jan 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_dogs/</guid>
-      <description>Visualizing the supply chain of US shelter dogs. This plot is one of my first contributions to the #TidyTuesday R social project. Here, I developed a chord plot of shelter dog origins vs destinations, then a map of the most common shelter dog breeds per state. Code available at GitHub link in banner.</description>
-    </item>
-    
-    <item>
-      <title>Christmas Song Trees</title>
-      <link>https://jakelawlor.github.io/portfolio/tt_christmassongs/</link>
-      <pubDate>Thu, 12 Dec 2019 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/tt_christmassongs/</guid>
-      <description>Christmas Songs in the Billboard top 100 This plot is one of my contributions to the #TidyTuesday R social project. Here, I created custom christmas-tree-shaped geoms to display the number and duration of christmas songs in the billboard top 100 yearly for ~60 years. Code can be found on my GitHub - link in banner above.</description>
     </item>
     
   </channel>

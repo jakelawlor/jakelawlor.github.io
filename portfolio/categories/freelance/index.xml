@@ -6,7 +6,17 @@
     <description>Recent content in freelance on Jake Lawlor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Mar 2022 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/freelance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Mar 2025 16:59:54 +0600</lastBuildDate><atom:link href="https://jakelawlor.github.io/portfolio/categories/freelance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Optimize Data Explorer</title>
+      <link>https://jakelawlor.github.io/portfolio/project_optimize/</link>
+      <pubDate>Wed, 12 Mar 2025 16:59:54 +0600</pubDate>
+      
+      <guid>https://jakelawlor.github.io/portfolio/project_optimize/</guid>
+      <description>Optimizing the use of eDNA for Marine Protected Area surveying in Canada Canada is investing in a large Marine Protected Area (MPA) network, spanning approximately 805,000 km, to preserve marine biodiversity and promote healthy, functional, and resilient marine ecosystems. However, current biodiversity sampling methods are inadequate to monitor biodiversity within a network of this size.
+Project Optimize worked to evaluate and optimize marine monitoring survey designs in order to estimate the benefits of biodiversity certainty against the costs, resulting in key quantitative insights into monitoring biodiversity with eDNA.</description>
+    </item>
+    
     <item>
       <title>Marine Protected Area Shiny App</title>
       <link>https://jakelawlor.github.io/portfolio/dfo_shiny2/</link>
@@ -14,7 +24,7 @@
       
       <guid>https://jakelawlor.github.io/portfolio/dfo_shiny2/</guid>
       <description>Targeting Protected Areas to Meet Conservation Goals Here, I worked with a team from the Canadian Department of Fisheries and Oceans Marine Planning and Conservation Team to develop an interactive tool showing how implementation of proposed protected areas on Canada&amp;rsquo;s East Coast would contribute to over 150 quantitative conservation targets for the region.
-I used the protected area network design and conservation priotity spatial layers developed by DFO (see documentation here and here), along with the shiny, leaflet, and reactable R packages, and various javascript tricks to develop the application.</description>
+I used the protected area network design and conservation priority spatial layers developed by DFO (see documentation here and here), along with the shiny, leaflet, and reactable R packages, and various javascript tricks to develop the application.</description>
     </item>
     
     <item>
@@ -38,31 +48,13 @@ I used the leaflet, raster, and sf packages to create distribution maps, and the
     </item>
     
     <item>
-      <title>ACLU Survey Responses</title>
-      <link>https://jakelawlor.github.io/portfolio/freelance_aclu/</link>
-      <pubDate>Sun, 12 Jul 2020 16:59:54 +0600</pubDate>
+      <title>Freelance Data Vis</title>
+      <link>https://jakelawlor.github.io/portfolio/freelance_data_vis/</link>
+      <pubDate>Fri, 12 Mar 2021 16:59:54 +0600</pubDate>
       
-      <guid>https://jakelawlor.github.io/portfolio/freelance_aclu/</guid>
-      <description>Community survey responses to the ACLU of Washington This is part of a freelance project I completed using text- and sentiment analysis to summarize responses to a community survey for the ACLU of Washington. I used the tidytext package for text manipulation and sentiment analysis, and ggplot2, ggforce, ggraph, and ggwordcloud for visualizations.</description>
-    </item>
-    
-    <item>
-      <title>Crated with Love</title>
-      <link>https://jakelawlor.github.io/portfolio/freelance_cratedwithlove/</link>
-      <pubDate>Sun, 12 Apr 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/freelance_cratedwithlove/</guid>
-      <description>Crated with Love Relationship Survey These are a subset of plots I created for Crated with Love food delivery service summarizing results from a survey of ~10,000 couples on relationship- and date-night-related topics. These visualizations and results were used for marketing the importance of data nights to build and maintain healthy relationships.
-All plots were created in ggplot2 with some utilization of extras like ggtext and gghighlight.</description>
-    </item>
-    
-    <item>
-      <title>Policy-Driven Markets</title>
-      <link>https://jakelawlor.github.io/portfolio/freelance_carbon/</link>
-      <pubDate>Thu, 12 Mar 2020 16:59:54 +0600</pubDate>
-      
-      <guid>https://jakelawlor.github.io/portfolio/freelance_carbon/</guid>
-      <description>Policy-Driven Market Fluctuations This is a series of plots I made for a California carbon tax consultancy showing market prices of fossil fuel emissions from specific policy initiatives around the world. The specific events and acronyms denoted in these graphs are somewhat esoteric and were largely chosen by the client, but I focused on using clear annotations, color, and spacing to effectively communicate the client&amp;rsquo;s ideas. All plots were completed using ggplot2 and ggforce.</description>
+      <guid>https://jakelawlor.github.io/portfolio/freelance_data_vis/</guid>
+      <description>Freelance Data Vis During the pandemic, I completed a number of data visualization contract projects to apply my skills in various fields and practice project management and client relations. Below are a few examples of how I have applied my skills outside of my normal field of ecology.
+California Carbon Tax Markets I made this series of plots for a California carbon tax consultancy to show changes in market prices of fossil fuel emissions in response to specific policy initiatives around the world.</description>
     </item>
     
   </channel>
