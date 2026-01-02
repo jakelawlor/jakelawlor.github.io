@@ -1,1 +1,85 @@
 
+
+
+#skills {
+  padding: 30px 0;
+}
+
+#chips {
+  margin-top: -20px;
+}
+
+.skills-slider{
+  display: flex;
+  justify-content: center;
+}
+
+/* Technical skills list */
+.tech-skills {
+  list-style: none;              /* remove default bullets */
+  padding-left: 0;
+  margin: 16px auto 0;
+  max-width: 760px;              /* keeps lines readable */
+}
+
+.tech-skills li {
+  position: relative;
+  padding-left: 32px;            /* space for custom bullet */
+  margin-bottom: 12px;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+/* Custom bullet */
+.tech-skills li::before {
+  content: "•";                  /* simple dot */
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #0fb9c1;                /* same accent as pills */
+  font-size: 22px;
+  line-height: 1;
+}
+
+.tech-skills li::before {
+  content: "\f00c";
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  top: 0;
+  color: #0fb9c1;
+  font-size: 24px;
+  top: 2px;
+}
+
+/* Optional: bold the first phrase */
+.tech-skills li strong {
+  font-weight: 600;
+}
+
+
+/* Pills / chips */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px 12px;
+  justify-content: center; /* or flex-start */
+  margin: 14px 0 6px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 16px;
+  margin: 0px 10px;
+  border-radius: 999px;           /* <-- the pill */
+  background: #00e2ff5c;
+  color: #222;
+  font-size: 16px;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+/* optional: slightly “raised” */
+.chip {
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,.1);
+}
